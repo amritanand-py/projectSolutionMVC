@@ -1,12 +1,88 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\C#\\projectSolution\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51871BF4-55C7-4798-BB77-19CB58FF0ED7}|Project1\\Project1.csproj|d:\\c#\\projectsolution\\project1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51871BF4-55C7-4798-BB77-19CB58FF0ED7}|Project1\\Project1.csproj|solutionrelative:project1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51871BF4-55C7-4798-BB77-19CB58FF0ED7}|Project1\\Project1.csproj|d:\\c#\\projectsolution\\project1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51871BF4-55C7-4798-BB77-19CB58FF0ED7}|Project1\\Project1.csproj|solutionrelative:project1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51871BF4-55C7-4798-BB77-19CB58FF0ED7}|Project1\\Project1.csproj|d:\\c#\\projectsolution\\project1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51871BF4-55C7-4798-BB77-19CB58FF0ED7}|Project1\\Project1.csproj|solutionrelative:project1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51871BF4-55C7-4798-BB77-19CB58FF0ED7}|Project1\\Project1.csproj|d:\\c#\\projectsolution\\project1\\project1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{51871BF4-55C7-4798-BB77-19CB58FF0ED7}|Project1\\Project1.csproj|solutionrelative:project1\\project1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\C#\\projectSolution\\Project1\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Project1\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\C#\\projectSolution\\Project1\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Project1\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-20T10:17:06.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\C#\\projectSolution\\Project1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Project1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\C#\\projectSolution\\Project1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Project1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-20T10:14:00.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\C#\\projectSolution\\Project1\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Project1\\Models\\Category.cs",
+              "ToolTip": "D:\\C#\\projectSolution\\Project1\\Models\\Category.cs",
+              "RelativeToolTip": "Project1\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T08:50:34.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Project1.csproj",
+              "DocumentMoniker": "D:\\C#\\projectSolution\\Project1\\Project1.csproj",
+              "RelativeDocumentMoniker": "Project1\\Project1.csproj",
+              "ToolTip": "D:\\C#\\projectSolution\\Project1\\Project1.csproj",
+              "RelativeToolTip": "Project1\\Project1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-20T08:09:24.339Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
